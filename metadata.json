@@ -1,0 +1,6 @@
+{
+  "name": "Time Capsule",
+  "description": "An intelligent personal productivity and work-management dashboard for organizing tasks, deadlines, notes, projects, and daily priorities in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
